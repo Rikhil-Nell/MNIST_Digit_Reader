@@ -38,7 +38,7 @@ This project is a simple neural network built from scratch to recognize handwrit
 
 Here is an example of the accuracy and loss curves over training iterations:
 
-![Accuracy and Loss](results/results_2024-05-26_04-25-19.png)
+![Accuracy and Loss](results/example.png)
 
 ## Future Work
 
