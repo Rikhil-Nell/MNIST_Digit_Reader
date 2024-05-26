@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MLtraining.iml" filepath="$PROJECT_DIR$/.idea/MLtraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MNIST_Digit_Reader.iml" filepath="$PROJECT_DIR$/.idea/MNIST_Digit_Reader.iml" />
     </modules>
   </component>
 </project>
