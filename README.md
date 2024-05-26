@@ -29,7 +29,7 @@ This project is a simple neural network built from scratch to recognize handwrit
 
 1. Open the Jupyter notebook:
     ```sh
-    jupyter notebook notebooks/MNIST_Digit_Recognizer.ipynb
+    jupyter notebook notebooks/mnist-digit-reader.ipynb
     ```
 
 2. Run the cells to train the model and visualize the results.
@@ -38,7 +38,7 @@ This project is a simple neural network built from scratch to recognize handwrit
 
 Here is an example of the accuracy and loss curves over training iterations:
 
-![Accuracy and Loss](results/accuracy_loss_plot.png)
+![Accuracy and Loss](results/results_2024-05-26_04-25-19.png)
 
 ## Future Work
 
